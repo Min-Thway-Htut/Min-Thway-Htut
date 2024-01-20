@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Operating Systems, Programming Languages, and Frontend Development.**
 - 👨‍💻 I have experience with HTML, CSS, Python, C++, WordPress, Version Control, and Linux and Window operation systems.
-
 - 👯 I’m looking to collaborate on **IT projects.**
 
 - 📫 How to reach me **minthwayhtut568@gmail.com**
