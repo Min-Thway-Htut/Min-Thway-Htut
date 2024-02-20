@@ -2,7 +2,7 @@
 <h3 align="center">I am a second-year student who has a strong interest in Computer Science and Information Technology.</h3>
 
 - 🌱 I’m currently learning **Cybersecurity, Operating Systems, Programming Languages, and Frontend Development.**
-- 👨‍💻 I have experience with HTML, CSS, JavaScript, Python, C++, SQL, WordPress, Version Control, and Linux and Window operation systems.
+- 👨‍💻 I have experience with HTML, CSS, JavaScript, Python, C++, SQL, WordPress, Figma, Version Control, and Linux and Window operation systems.
 - 👯 I’m looking to collaborate on **IT projects.**
 
 - 📫 How to reach me **minthwayhtut568@gmail.com**
