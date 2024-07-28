@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my own projects.**
 
-- 🌱 I’m currently learning **REACT.JS, R Programming, and back-end development.**
+- 🌱 I’m currently learning **REACT.JS, AI and Machine Learning, R Programming, and Back-End Development.**
 
 - 👯 I’m looking to collaborate on **front-end projects.**
 
