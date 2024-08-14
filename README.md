@@ -1,4 +1,4 @@
-
+<img href="Github-banner" alt="github banner" />
 
 <h1 align="center">Hi 👋, I'm Min Thway Htut.</h1>
 <h3 align="center">A second-year Computer Science student with a strong interest in app/web development and cyber security.</h3>
