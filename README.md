@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a machine learning pipeline and a full-stack web-application.**
 
-- 🌱 I’m currently learning **REACT.JS, AI and Machine Learning, R Programming, and Back-End Development.**
+- 🌱 I’m currently learning **REACT.JS, jQuery, AI and Machine Learning, R Programming, and Back-End Development.**
 
 - 👯 I’m looking to collaborate on **front-end projects.**
 
