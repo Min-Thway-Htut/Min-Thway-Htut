@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=min-thway-htut" alt="min-thway-htut" /></a> </p>
 
-- 🔭 I’m currently working on **a machine learning pipeline and a full-stack web-application.**
+- 🔭 I’m currently working on **a full-stack web-application.**
 
 - 🌱 I’m currently learning **REACT.JS, jQuery, AI and Machine Learning, R Programming, and Back-End Development.**
 
