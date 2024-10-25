@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **REACT.JS, jQuery, and Back-End Development.**
 
-- 👯 I’m looking to collaborate on **web-app projects.**
-
 - 👨‍💻 All of my projects are available at [https://min-thway-htut.github.io/](https://min-thway-htut.github.io/)
 
 - 📫 How to reach me **minthwayhtut568@gmail.com**
