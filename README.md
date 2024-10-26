@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=min-thway-htut" alt="min-thway-htut" /></a> </p>
 
-- 🔭 I’m currently working on **a full-stack web-application.**
-
 - 🌱 I’m currently learning **REACT.JS, jQuery, and Back-End Development.**
 
 - 👨‍💻 All of my projects are available at [https://min-thway-htut.github.io/](https://min-thway-htut.github.io/)
