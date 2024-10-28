@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=min-thway-htut" alt="min-thway-htut" /></a> </p>
 
-- 🌱 I am currently learning **REACT.JS, jQuery, and Back-End Development.**
+- 🌱 I am currently learning **REACT.JS, jQuery, and NODE.js for Back-End Development.**
 
 - 👨‍💻 All of my projects are available at [https://min-thway-htut.github.io/](https://min-thway-htut.github.io/)
 
