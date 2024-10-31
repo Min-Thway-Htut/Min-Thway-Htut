@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://min-thway-htut.github.io/](https://min-thway-htut.github.io/)
 
+- My email address - minthwayhtut568@gmail.com
+
 
 
 <h3 align="left">Connect with me:</h3>
