@@ -9,8 +9,6 @@
 
 - 🌱 I am currently learning **REACT.JS, jQuery, and NODE.js for Back-End Development.**
 
-- 👨‍💻 All of my projects are available at [https://min-thway-htut.github.io/](https://min-thway-htut.github.io/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
