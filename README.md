@@ -1,7 +1,7 @@
 <img src="Github-Banner.png" alt="github banner" />
 
 <h1 align="center">Hi, I am Min Thway Htut.</h1>
-<h3 align="center">A final-year Computer Science student with a strong interest in app/web development. I am currently working as a student in app & web development at Fraunhofer IOSB.</h3>
+<h3 align="center">A final-year Computer Science student with a strong interest in app/web development. I am currently working as a student in app & web development for Fraunhofer IOSB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=min-thway-htut&label=Profile%20views&color=0e75b6&style=flat" alt="min-thway-htut" /> </p>
 
